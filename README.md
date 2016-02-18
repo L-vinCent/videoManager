@@ -1,8 +1,6 @@
 # videoManager
-About Video Processing
+About Video Processing 一些关于视频的处理方法
 
-
-一些关于视频的处理方法
 因为工作需求，没有太多时间整理，这是直接从项目中抽离出来的类，用的是系统方法处理
 
 
